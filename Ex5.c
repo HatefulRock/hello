@@ -19,5 +19,5 @@ int pairs(){
 
         }
     }
-int print_tableau(t,a);
+print_tableau(t,a);
 }
